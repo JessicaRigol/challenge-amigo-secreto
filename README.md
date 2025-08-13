@@ -13,4 +13,4 @@ O usuário pode adicionar nomes à lista e, com apenas um clique, sortear um par
 ✦ ``HTML`` ✦ ``CSS`` ✦ ``JavaScript``✦
 
 ## 🌐 Acesso ao projeto
-Você pode acessar clicando [aqui](https://github.com/).
+Você pode acessar clicando [aqui](https://jessicarigol.github.io/challenge-amigo-secreto/).
